@@ -7,7 +7,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/60515732"  />
+<img align="right" height="150" src="https://github.com/junyid/junyid/blob/main/8bitpix.png"  />
 
 ###
 
